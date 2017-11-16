@@ -40,3 +40,6 @@ The most basic example below accepts the default mapping and adds springSecurity
 springSecurityFilterChain is mapped to “/*”
 springSecurityFilterChain uses the dispatch types of ERROR and REQUEST
 The springSecurityFilterChain mapping is inserted before any servlet Filter mappings that have already been configured
+
+
+## For other authentication such as jdbc, ldap  please refer  http://www.logicbig.com/tutorials/spring-framework/spring-security/user-details-service/
